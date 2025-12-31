@@ -11,7 +11,10 @@ Release/
 *.bin
 *.lst
 
+# STM32CubeIDE / Eclipse launch files
 *.launch
+.settings/
+.metadata/
 
 # IDE settings
 .settings/
