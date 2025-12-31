@@ -11,6 +11,8 @@ Release/
 *.bin
 *.lst
 
+*.launch
+
 # IDE settings
 .settings/
 .metadata/
